@@ -8,11 +8,12 @@ can wrap around out the gate area and extend through the entire concourse
 and (holiday travel especially) can become quite stressful.
 
 My goal here is to try to get information about where trains are likely to
-come in. There are tracks that are terminal tracks on the left side (From
-MARC to around the upward escalator) and lower tracks that allow trains to 
-continue North/South. Knowing if your train originates in DC or is 
-Virginia Service and passes through could help choose where to wait for the
-train.
+come in. There are tracks that are terminal tracks on the left side (Gates A-F) 
+and lower tracks that allow trains to continue North/South (Gates G-L). I am
+pretty sure that northbound Virginia Service trains come in to G-L, and that
+trains where DC is the origin come in around D-F. Knowing if your train 
+originates in DC or is Virginia Service and passes through could help choose 
+where to wait for the train and possibly beat the crowd.
 
 This is sort of a stupid repo, but I want to be able to update it and share
 with people, and let people collaborate if they want. I come from a software
