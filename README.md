@@ -21,13 +21,11 @@ background, so this seems like a good way to do it for me.
 ## Washington Union Station (WAS) Map
 
 <figure>
-
-<img src="./map.png" alt="Map of WAS Main Level">
-
-<figcaption align="center"><b>Map of WAS Main Level</b></figcaption>
-Source: https://www.unionstationdc.com/pdfs/directoryMap.pdf
-
+    <img src="./map.png" alt="Map of WAS Main Level">
+    <figcaption align = "center"><b>Map of WAS Main Level</b></figcaption>
 </figure>
+
+<!-- Source: https://www.unionstationdc.com/pdfs/directoryMap.pdf -->
 
 ## Trains that Originate at WAS
 
