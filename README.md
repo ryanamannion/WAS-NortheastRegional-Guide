@@ -31,35 +31,35 @@ background, so this seems like a good way to do it for me.
 
 | Train \# | Days | Attested Gates |
 |:---:|-------|---|
-| 190 | Mo-Fr | |
-| 170 | Mo-Fr | |
-| 180 | Mo-Fr | |
+| 122 | Su    | |
+| 124 | SaSu  | |
+| 126 | Su    | |
 | 130 | Mo-Fr | |
-| 172 | Mo-Fr | |
-| 182 | Mo-Fr | |
-| 184 | Mo-Fr | |
-| 196 | Mo-Fr | |
-| 136 | Fr    | |
+| 132 | Su    | |
 | 134 | ThFr  | |
-| 178 | Mo-Fr | |
-| 148 | Mo-Fr | |
+| 136 | Fr    | |
 | 138 | Mo-Fr | |
-| 186 | Mo-Fr | |
+| 140 | SaSu  | |
+| 146 | Sa    | |
+| 148 | Mo-Fr | |
 | 150 | SaSu  | |
-| 160 | SaSu  | |
-| 162 | SaSu  | |
 | 152 | SaSu  | |
 | 154 | Su    | |
-| 140 | SaSu  | |
-| 132 | Su    | |
-| 168 | Sa    | |
-| 122 | Su    | |
-| 126 | Su    | |
-| 146 | Sa    | |
-| 192 | Sa    | |
-| 166 | Su    | |
 | 158 | SaSu  | |
-| 124 | SaSu  | |
+| 160 | SaSu  | |
+| 162 | SaSu  | |
+| 166 | Su    | |
+| 168 | Sa    | |
+| 170 | Mo-Fr | |
+| 172 | Mo-Fr | |
+| 178 | Mo-Fr | |
+| 180 | Mo-Fr | |
+| 182 | Mo-Fr | |
+| 184 | Mo-Fr | |
+| 186 | Mo-Fr | |
+| 190 | Mo-Fr | |
+| 192 | Sa    | |
+| 196 | Mo-Fr | |
 
 --------------------------------------------------------
 
@@ -69,15 +69,15 @@ Trains that Originate South and continue thru WAS
 
 | Train \# | Days | Attested Gates |
 |:---:|-------|---|
-| 86  | Mo-Fr | |
-| 164 | SaSu  | |
-| 174 | Mo-Fr | |
+| 66  | Daily | |
 | 82  | Sa    | |
 | 84  | Mo-Fr | |
+| 86  | Mo-Fr | |
 | 88  | SaSu  | |
+| 94  | Mo-Fr | |
+| 96  | Su    | |
+| 156 | SaSu  | |
+| 164 | SaSu  | |
+| 174 | Mo-Fr | |
 | 176 | Mo-Fr | |
 | 194 | Sa    | |
-| 96  | Su    | |
-| 94  | Mo-Fr | |
-| 156 | SaSu  | |
-| 66  | Daily | |
