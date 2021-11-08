@@ -20,9 +20,7 @@ background, so this seems like a good way to do it for me.
 
 ## Washington Union Station (WAS) Map
 
-<figure>
-    <img src="./map.png" alt="Map of WAS Main Level">
-</figure>
+![Map of WAS Main Level](./map.png)
 
 Source: https://www.unionstationdc.com/pdfs/directoryMap.pdf
 
